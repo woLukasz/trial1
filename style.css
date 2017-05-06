@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+p {
+  font-size: 50px;
+  color: #ff00ee;
+  font-family: "Open Sans";
+  text-align: center;
+
+}
+
+#box {
+  margin: auto;
+  width: 70%;
+  border: 3px solid #ff00ee;
+  padding: 20px;
+}
+
+#historyList {
+  font-family: "Open Sans";
+  font-size: 30px;
+  color: white;
+  background-color: black;
+  border: 3px solid #ff00ee;
+  text-align: left;
+}
+
+#super {
+  background-color: #ff00ee;
+  padding: 20px;
+  font-family: "Open Sans";
+  text-align: center;
+  margin: auto;
+  color: #ffffff;
+  font-size: 20px;
+}
