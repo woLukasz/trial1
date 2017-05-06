@@ -20,8 +20,6 @@ p {
   font-size: 30px;
   color: white;
   background-color: black;
-  border: 3px solid #ff00ee;
-  text-align: left;
 }
 
 #super {
@@ -32,4 +30,21 @@ p {
   margin: auto;
   color: #ffffff;
   font-size: 20px;
+}
+table, th, tb {
+ border: 3px solid #ff00ee;
+ text-align: center;
+ padding: 15px;
+
+
+}
+table {
+  width: 80%;
+}
+th {
+  height: 50px;
+  background-color: #ff00ee;
+  color: white;
+  font-family: "Open Sans";
+  font-size: 25px;
 }
